@@ -1,0 +1,321 @@
+{
+  "current_node": [
+    [
+      "X",
+      " ",
+      "X"
+    ],
+    [
+      " ",
+      "O",
+      " "
+    ],
+    [
+      "O",
+      "O",
+      "X"
+    ]
+  ],
+  "adjacent_nodes": [
+    {
+      "current_node": [
+        [
+          "X",
+          "O",
+          "X"
+        ],
+        [
+          " ",
+          "O",
+          " "
+        ],
+        [
+          "O",
+          "O",
+          "X"
+        ]
+      ],
+      "adjacent_nodes": []
+    },
+    {
+      "current_node": [
+        [
+          "X",
+          " ",
+          "X"
+        ],
+        [
+          "O",
+          "O",
+          " "
+        ],
+        [
+          "O",
+          "O",
+          "X"
+        ]
+      ],
+      "adjacent_nodes": []
+    },
+    {
+      "current_node": [
+        [
+          "X",
+          " ",
+          "X"
+        ],
+        [
+          " ",
+          "O",
+          "O"
+        ],
+        [
+          "O",
+          "O",
+          "X"
+        ]
+      ],
+      "adjacent_nodes": []
+    },
+    {
+      "current_node": [
+        [
+          "X",
+          "O",
+          "X"
+        ],
+        [
+          "X",
+          "O",
+          " "
+        ],
+        [
+          "O",
+          "O",
+          "X"
+        ]
+      ],
+      "adjacent_nodes": []
+    },
+    {
+      "current_node": [
+        [
+          "X",
+          "O",
+          "X"
+        ],
+        [
+          " ",
+          "O",
+          "X"
+        ],
+        [
+          "O",
+          "O",
+          "X"
+        ]
+      ],
+      "adjacent_nodes": []
+    },
+    {
+      "current_node": [
+        [
+          "X",
+          "X",
+          "X"
+        ],
+        [
+          "O",
+          "O",
+          " "
+        ],
+        [
+          "O",
+          "O",
+          "X"
+        ]
+      ],
+      "adjacent_nodes": []
+    },
+    {
+      "current_node": [
+        [
+          "X",
+          " ",
+          "X"
+        ],
+        [
+          "O",
+          "O",
+          "X"
+        ],
+        [
+          "O",
+          "O",
+          "X"
+        ]
+      ],
+      "adjacent_nodes": []
+    },
+    {
+      "current_node": [
+        [
+          "X",
+          "X",
+          "X"
+        ],
+        [
+          " ",
+          "O",
+          "O"
+        ],
+        [
+          "O",
+          "O",
+          "X"
+        ]
+      ],
+      "adjacent_nodes": []
+    },
+    {
+      "current_node": [
+        [
+          "X",
+          " ",
+          "X"
+        ],
+        [
+          "X",
+          "O",
+          "O"
+        ],
+        [
+          "O",
+          "O",
+          "X"
+        ]
+      ],
+      "adjacent_nodes": []
+    },
+    {
+      "current_node": [
+        [
+          "X",
+          "O",
+          "X"
+        ],
+        [
+          "X",
+          "O",
+          "O"
+        ],
+        [
+          "O",
+          "O",
+          "X"
+        ]
+      ],
+      "adjacent_nodes": []
+    },
+    {
+      "current_node": [
+        [
+          "X",
+          "O",
+          "X"
+        ],
+        [
+          "O",
+          "O",
+          "X"
+        ],
+        [
+          "O",
+          "O",
+          "X"
+        ]
+      ],
+      "adjacent_nodes": []
+    },
+    {
+      "current_node": [
+        [
+          "X",
+          "X",
+          "X"
+        ],
+        [
+          "O",
+          "O",
+          "O"
+        ],
+        [
+          "O",
+          "O",
+          "X"
+        ]
+      ],
+      "adjacent_nodes": []
+    },
+    {
+      "current_node": [
+        [
+          "X",
+          "O",
+          "X"
+        ],
+        [
+          "O",
+          "O",
+          "X"
+        ],
+        [
+          "O",
+          "O",
+          "X"
+        ]
+      ],
+      "adjacent_nodes": []
+    },
+    {
+      "current_node": [
+        [
+          "X",
+          "X",
+          "X"
+        ],
+        [
+          "O",
+          "O",
+          "O"
+        ],
+        [
+          "O",
+          "O",
+          "X"
+        ]
+      ],
+      "adjacent_nodes": []
+    },
+    {
+      "current_node": [
+        [
+          "X",
+          "O",
+          "X"
+        ],
+        [
+          "X",
+          "O",
+          "O"
+        ],
+        [
+          "O",
+          "O",
+          "X"
+        ]
+      ],
+      "adjacent_nodes": []
+    }
+  ]
+}
